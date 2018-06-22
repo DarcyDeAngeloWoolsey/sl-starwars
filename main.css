@@ -20,4 +20,5 @@ h3{
 div{
     background-image: url("Star-wars.png");
     height: 583px;
+    background-repeat: no-repeat;
 }
