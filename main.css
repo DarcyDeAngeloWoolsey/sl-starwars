@@ -1,0 +1,23 @@
+h1{
+    color: #f5fd2f;
+}
+h2{
+    color: #f5fd2f;
+}
+p{
+    color: #f5fd2f;
+}
+
+section{
+    background-color: black;
+}
+img{
+    max-width: 299px;
+}
+h3{
+    color: #f5fd2f;
+}
+div{
+    background-image: url("Star-wars.png");
+    height: 583px;
+}
